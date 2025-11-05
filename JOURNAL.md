@@ -16,3 +16,10 @@ Its my first time doing CAD, and could see that while i design.
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzk5NSwicHVyIjoiYmxvYl9pZCJ9fQ==--0b2c6b6eb398535b78166e2821a0c9421aced759/image.png)
   
 
+## 11/5/2025 - Simulation  
+
+Tried simulating the arm to check if all things are aligned correctly.. 
+Yes its good and it does work, But needs to figure out a proper way for kinematics, so that the joints could move to a specific position with coords.
+![arm-sim](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODYzMiwicHVyIjoiYmxvYl9pZCJ9fQ==--c011adc4f2978c42425cd8d7fbcbbe85be994b48/arm-sim.png)
+  
+
