@@ -16,10 +16,18 @@ Its my first time doing CAD, and could see that while i design.
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzk5NSwicHVyIjoiYmxvYl9pZCJ9fQ==--0b2c6b6eb398535b78166e2821a0c9421aced759/image.png)
   
 
-## 11/5/2025 - Simulation  
+## 11/5/2025 6:25 PM - Simulation  
 
 Tried simulating the arm to check if all things are aligned correctly.. 
 Yes its good and it does work, But needs to figure out a proper way for kinematics, so that the joints could move to a specific position with coords.
 ![arm-sim](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODYzMiwicHVyIjoiYmxvYl9pZCJ9fQ==--c011adc4f2978c42425cd8d7fbcbbe85be994b48/arm-sim.png)
+  
+
+## 11/5/2025 6:47 PM - It moves in the simulation.  
+
+Forgot to post journal of each steps, so posting all in the same time.
+Yess it starts to move freely in the simulation, figured out the kinematics and how angles move. Now when building in irl we could use a leader arm to move, which will control the follower arm that does all the tasks.
+Im also trying to make it fully autonomous, Like training the whole VLA models.
+![aloha_act](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODYzMywicHVyIjoiYmxvYl9pZCJ9fQ==--e197ba42647a8a1acf69a19d10cde907b2cef779/aloha_act.gif)
   
 
